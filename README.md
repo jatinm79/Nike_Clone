@@ -20,8 +20,8 @@ git clone https://github.com/your-username/nike-clone.git
 
 cd nike-clone
 
-npm install
+npm install / yarn install
 
-npm start
+npm start / yarn start
 
 
