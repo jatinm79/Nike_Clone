@@ -25,7 +25,7 @@ npm install / yarn install
 npm start / yarn start
 ```
 
-###  Visit the App
+####  Visit the App
 
 Open your browser and navigate to:
 
