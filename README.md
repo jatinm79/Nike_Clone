@@ -14,7 +14,6 @@ This project emulates Nike's modern UI/UX patterns, responsive design principles
 
 ### 📦 Installation
 
-1. **Clone the Repository**
 
 ```bash
 git clone https://github.com/your-username/nike-clone.git
@@ -25,4 +24,4 @@ npm install
 
 npm start
 
-http://localhost:3000
+
