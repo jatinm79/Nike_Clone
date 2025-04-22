@@ -12,7 +12,7 @@ This project emulates Nike's modern UI/UX patterns, responsive design principles
 - **HTML5** – Semantic markup for structured web content.
 - **CSS3** – Responsive styling, layout design (Flexbox/Grid), animations, and transitions.
 
-### 📦 Installation
+###  Installation
 
 
 ```bash
@@ -23,5 +23,14 @@ cd nike-clone
 npm install / yarn install
 
 npm start / yarn start
+```
+
+###  Visit the App
+
+Open your browser and navigate to:
+
+```bash
+http://localhost:3000
+
 
 
