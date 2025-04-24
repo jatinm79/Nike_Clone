@@ -40,7 +40,7 @@ http://localhost:3000
 ##  Conclusion
 
 This Nike Clone project is a front-end implementation inspired by the official Nike website, designed to demonstrate modern web development practices using React.js, JavaScript, HTML, and CSS. 
-It emphasizes responsive design, reusable components, and clean UI/UX principles.
+It emphasizes responsive design and reusable components.
 
 
 
