@@ -10,7 +10,7 @@ This project emulates Nike's modern UI/UX patterns, responsive design principles
 - **React.js** – Component-based UI library for building dynamic and reusable interfaces.
 - **JavaScript (ES6+)** – Core programming language for event handling and state management.
 - **HTML5** – Semantic markup for structured web content.
-- **CSS3** – Responsive styling, layout design (Flexbox/Grid), animations, and transitions.
+- **CSS3** – Responsive styling, layout design (Flexbox), animations, and transitions.
 
 <br>
 
