@@ -1,6 +1,7 @@
 import { products } from "../constants";
 import { PopularProductCard } from "../components";
 
+// Functional component for displaying popular products
 const PopularProducts = () => {
   return (
     <section id='products' className='max-container max-sm:mt-12'>
