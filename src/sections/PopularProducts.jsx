@@ -24,4 +24,5 @@ const PopularProducts = () => {
   );
 };
 
+// Exporting the component
 export default PopularProducts;
